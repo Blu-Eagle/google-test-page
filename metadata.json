@@ -1,6 +1,6 @@
 {
-  "name": "Test Page Google",
-  "description": "A colorful single-page test application featuring the TEST PAGE GOOGLE headline and an interactive versioning tracker.",
+  "name": "AI Tools Comparison",
+  "description": "A curated comparison table of advanced AI models and tools, replacing expensive paid subscriptions.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
